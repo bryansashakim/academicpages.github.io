@@ -2,9 +2,12 @@
 main:
   - title: "RA Contributions"
     url: /ra/
+    
+    - title: "Projects"
+    url: /proj/
 
-  - title: "Projects"
-    url: /projects/   
+ # - title: "Projects"
+ #   url: /projects/   
     
  # - title: "Publications"
  #   url: /publications/
