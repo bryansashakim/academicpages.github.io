@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bryan Kim / Site Title"
+title                    : "Bryan Kim"
 title_separator          : "-"
 name                     : &name "Bryan Kim"
 description              : &description "personal description"
