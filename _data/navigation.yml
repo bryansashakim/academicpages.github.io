@@ -6,8 +6,8 @@ main:
   - title: "Projects"
     url: /proj/
 
-  - title: "TEST"
-    url: /test/
+ # - title: "TEST"
+ #  url: /test/
     
  # - title: "Projects"
  #   url: /projects/   
