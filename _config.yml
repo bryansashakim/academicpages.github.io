@@ -181,6 +181,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  proj:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -210,6 +213,15 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _proj
+  - scope:
+      path: ""
+      type: proj
     values:
       layout: single
       author_profile: true
