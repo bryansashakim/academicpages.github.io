@@ -4,5 +4,5 @@ excerpt: "This is an algorithm written in R that attempts to simulate virus prog
 collection: proj
 ---
 
-[Click here to view code](https://github.com/bryansashakim/airlines)
+[Click here to view code](https://github.com/bryansashakim/Family-Unit)
 
