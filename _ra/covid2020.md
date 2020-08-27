@@ -10,6 +10,7 @@ Developed 'Testing Pods' algorithm simulating the effectiveness of testing proce
 date: 2020-06-02
 venue: 'NBER Working Papers'
 paperurl: 'https://www.nber.org/papers/w27373'
+#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 Contributions: <br/> Wrote R code to program the SIR model of hetergeneous multipopulations differing in their "activity" levels. Two model versions include uniform matching and homophilic matching behaviors. Also produced relevant graphs with ggplot2 which can be viewed in the link. 
 <br/>
