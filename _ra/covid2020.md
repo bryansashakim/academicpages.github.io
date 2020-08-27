@@ -2,7 +2,7 @@
 title: "Implications of Heterogeneous SIR Models for Analyses of COVID-19"
 collection: ra
 permalink: /ra/covid2020
-excerpt: 'Wrote R code to produce a time series of the volatility of several mainstream cryptocurrencies.'
+excerpt: 'Wrote R code to program a heterogeneous SIR model.'
 date: 2020-06-09
 venue: 'NBER Working Papers'
 paperurl: 'https://www.nber.org/papers/w27373'
