@@ -2,7 +2,7 @@
 title: "Untitled Bitcoin Paper"
 collection: ra
 permalink: /ra/crypto
-excerpt: 'Wrote R code to produce a time series of the volatility of several mainstream cryptocurrencies. <br/><img src="/images/Figure1.pdf">'
+excerpt: 'Wrote R code to produce a time series of the volatility of several mainstream cryptocurrencies. <br/><img src="/images/Figure1-1.png">'
 date: 2020-07-02
 venue: 'N/A'
 paperurl: 'N/A'
