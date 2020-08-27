@@ -4,7 +4,7 @@ collection: ra
 permalink: /ra/covid2020
 excerpt: 'Wrote R code to produce a time series of the volatility of several mainstream cryptocurrencies.'
 date: 2020-06-09
-venue: ''NBER Working Papers'
+venue: 'NBER Working Papers'
 paperurl: 'https://www.nber.org/papers/w27373'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
