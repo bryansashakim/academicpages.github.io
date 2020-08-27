@@ -2,7 +2,7 @@
 title: "Implications of Heterogeneous SIR Models for Analyses of COVID-19"
 collection: ra
 permalink: /ra/covid2020
-excerpt: 'Wrote R code to program a heterogeneous SIR model (uniform matching and homophilic matching behaviors) and produced relevant figures with ggplot2, developed 'Testing Pods' algorithm simulating the effectiveness of testing procedures with a realistic model of disease progression. '
+excerpt: 'Wrote R code to program a heterogeneous SIR model (uniform matching and homophilic matching behaviors) and produced relevant figures with ggplot2, developed "Testing Pods" algorithm simulating the effectiveness of testing procedures with a realistic model of disease progression. '
 date: 2020-06-09
 venue: 'NBER Working Papers'
 paperurl: 'https://www.nber.org/papers/w27373'
