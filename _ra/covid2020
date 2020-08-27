@@ -8,8 +8,4 @@ venue: 'NBER Working Papers'
 paperurl: 'https://www.nber.org/papers/w27373'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://bryansashakim.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Contributions: Wrote R code to program the SIR model of hetergeneous multipopulations differing in their "activity" levels. Two model versions include uniform matching and homophilic matching behaviors. Also produced relevant graphs with ggplot2 which can be viewed in the link.
