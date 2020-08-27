@@ -2,9 +2,8 @@
 title: "Implications of Heterogeneous SIR Models for Analyses of COVID-19"
 collection: ra
 permalink: /ra/covid2020
-excerpt: 'Wrote R code to program the SIR model of hetergeneous multipopulations differing in their "activity" levels. Two model versions include uniform matching and homophilic matching behaviors. Also produced relevant graphs with ggplot2 which can be viewed in the link.
-Developed 'Testing Pods' algorithm simulating the effectiveness of testing procedures with a realistic model of disease progression. The program is written in R and simulates in continuous time the evolution of a disease outbreak that starts with a single infected individual, keeping track of an ever increasing population of affected individuals that that has N members. In each simulation we will either find that the infection has stopped expanding at some time T, or we will see that N seems to be growing without bound at which point we’ll stop the simulation and conclude that the zero infection state is unstable given the parameters.
-'
+excerpt: 'Wrote R code to program a heterogeneous SIR model of multipopulations differing in their "activity" levels. Two model versions include uniform matching and homophilic matching behaviors. Also produced relevant graphs with ggplot2 which can be viewed in the link.
+Developed 'Testing Pods' algorithm simulating the effectiveness of testing procedures with a realistic model of disease progression. The program is written in R and simulates in continuous time the evolution of a disease outbreak that starts with a single infected individual, keeping track of an ever increasing population of affected individuals that that has N members.'
 
 date: 2020-06-02
 venue: 'NBER Working Papers'
