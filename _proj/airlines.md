@@ -4,4 +4,5 @@ excerpt: "It's been shown that Low-Cost Carriers such as Southwest introduce com
 collection: proj
 ---
 
-Paper Abstract: N/A
+[Click here to view current progress](https://github.com/bryansashakim/airlines)
+
