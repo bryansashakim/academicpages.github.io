@@ -5,6 +5,9 @@ main:
     
   - title: "Projects"
     url: /proj/
+    
+  - title: "Ode to Uncertainty"
+    url: /ode/
 
  # - title: "TEST"
  #  url: /test/
