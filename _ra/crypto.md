@@ -7,7 +7,6 @@ excerpt: 'R code written to produce a time series of the volatility of Bitcoin a
 [Click here to view code](https://github.com/bryansashakim/bitcoin-GlennEllison)'
 #date: 2020-07-02
 venue: 'N/A'
-paperurl: 'N/A'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 Paper Abstract: N/A
