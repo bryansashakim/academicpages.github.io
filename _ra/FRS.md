@@ -2,7 +2,7 @@
 title: "Framingham Risk Score Algorithm"
 collection: ra
 permalink: /ra/FRS
-excerpt: 'Wrote a cox proportaional hazard prediction model to determine a 10-year risk score of cardiovascular disease using a variety of individual level risk factors such as age, total cholesteral, treated systolic blood pressure, HDL, smoking status and diabetes.
+excerpt: 'Wrote a cox proportaional hazard prediction model to determine a 10-year risk score of cardiovascular disease using a variety of individual level risk factors such as age, total cholesteral, treated systolic blood pressure, HDL, smoking status and diabetes. <br/> 
 <br/> 
 [Click here to view code](https://github.com/bryansashakim/Framingham-Risk-Scores)'
 #date: 2020-07-02
