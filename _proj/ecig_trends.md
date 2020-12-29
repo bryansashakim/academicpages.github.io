@@ -4,5 +4,5 @@ excerpt: "We look at trends in youth vaping, mainly focused around the increased
 ' width='900' height='220'>"
 collection: proj
 ---
-[Click here to view shiny app on e-cigarette trends.](http://bryansashakim.shinyapps.io/ecig_trends?_ga=2.218918431.700996732.1609219057-1627191079.1609219057)
+[Click here to view shiny app on e-cigarette trends.](https://bryansashakim.shinyapps.io/ecig_trends/?_ga=2.248661633.700996732.1609219057-1627191079.1609219057)
 [Click here to view code.](https://github.com/bryansashakim/JUUL)
