@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume](https://www.dropbox.com/s/rzpvqogbj5eruiw/Bryan%20Kim%20-%20Resume.pdf?dl=0)
+[Resume](https://www.dropbox.com/s/cuojw9qo5ihd2xp/BK_resume.pdf?dl=0)
